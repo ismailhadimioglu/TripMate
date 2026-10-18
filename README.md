@@ -23,4 +23,4 @@ npm run dev
 
 ![Ana sayfa](screenshots/Anasayfa.png)
 ![Detay sayfası](screenshots/Detay.png)
-![Yeni Gezi sayfası](screenshots/Yeni Gezi.png)
+![Yeni Gezi sayfası](screenshots/Yeni_Gezi.png)
